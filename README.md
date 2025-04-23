@@ -29,3 +29,19 @@ StyleGPT is a Python-based virtual stylist app that recommends personalized outf
 
 # StyleGPT
 StyleGPT is a virtual stylist application that recommends outfits based on user preferences such as body type, occasion, mood, and color palette. Users can receive personalized fashion suggestions tailored to their unique style.
+
+
+## 💡 Future Improvements
+
+- Add GUI version (Tkinter or web-based)
+- Integrate fashion API for real-time outfit suggestions
+- User profile saving & trend analysis
+
+## 🧠 Inspiration
+
+Inspired by fashion assistants and the idea of making styling accessible and personalized to everyone.
+
+---
+
+Made with ❤️ by [Reenal Shah](https://github.com/Reenal8)
+
